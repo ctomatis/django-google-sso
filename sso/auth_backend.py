@@ -1,3 +1,5 @@
+# Taken from http://stackoverflow.com/questions/6560182/django-authentication-without-a-password
+
 from django.contrib.auth.backends import ModelBackend
 from django.contrib.auth.models import User
 
